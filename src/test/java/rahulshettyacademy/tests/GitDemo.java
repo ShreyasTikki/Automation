@@ -11,6 +11,14 @@ public class GitDemo {
 	public static void method2() {
 
 		System.out.println("method2");
+		System.out.println("method2");
+		System.out.println("method2");
+		System.out.println("method2");
+		System.out.println("method2");
+		System.out.println("method2");
+		System.out.println("method2");
+		System.out.println("method2");
+		System.out.println("method2");
 
 	}
 
