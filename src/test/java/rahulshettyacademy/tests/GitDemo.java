@@ -5,6 +5,11 @@ public class GitDemo {
 	public static void method1() {
 
 		System.out.println("method1");
+		System.out.println("method4");
+		System.out.println("method5");
+		System.out.println("method6");
+		System.out.println("method7");
+		
 
 	}
 
